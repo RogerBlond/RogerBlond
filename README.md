@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Radek
 ### 👀 I'm self-developing data enthusiast with a goal to become a specialist in data engineering.
-### 🌱 I’m currently learning Python (Flask, Pandas) and also writing projects using newly discovered libraries.
+### 🌱 I’m currently learning Python (Flask, Pandas) by writing projects using newly discovered libraries associated with SQL and PL/SQL.
 ### 💞️ I’m looking to collaborate on anything related to python and data stuff.
 <!--
 **RogerBlond/RogerBlond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
